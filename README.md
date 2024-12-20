@@ -2,7 +2,13 @@
 
 This project allows multiple users to create and manage music samples simultaneously through socket connections.
 
+<img width="962" alt="ctp431" src="https://github.com/user-attachments/assets/0adbf65c-ffe1-42d0-b919-ff4c8dd2c69e" />
+
+[https://youtu.be/-sdnVOFgNCg](https://youtu.be/-sdnVOFgNCg)
+
 **Disclaimer: ALL USED SAMPLES ARE DELETED WHEN REQUESTED. THIS REPOSITORY IS FOR JUST SERVING CODE ONLINE FOR MY PROJECT SUBMISSION. WILL BE DELETED BEFORE JANUARY.**
+
+[Demo Link](https://ctp431.litmify.com)
 
 ## Features
 
